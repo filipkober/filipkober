@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">A dev from Poland</h3>
+<h3 align="center">An aspiring dev from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filipkober&label=Profile%20views&color=0e75b6&style=flat" alt="filipkober" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal web apps**
 
-- 🌱 I’m currently learning **ts, react**
+- 🌱 I’m currently learning **TypeScript, React, NextJS**
 
 - 📫 How to reach me **koberfilip2@gmail.com**
 
